@@ -1,0 +1,38 @@
+DQSCRIPT INSTALLATION INSTRUCTIONS
+==========================================================
+
+Before proceeding with the installation, make sure your server has the proper requirements as mentioned below:-
+
+Requirements to install DQScript :-
+
+*) Hosting Panel: Cpanel (Preferred)
+*) PHP 7.2
+*) Mysql 5.x
+*) SourceGuardian loader
+*) GD Library
+*) Curl Library
+*) GMP
+*) Intl extension
+*) Soap extension
+*) Openssl library
+*) Bcmath Library
+
+ 
+How to Install :-
+
+/// Using "Filezilla" to upload
+*) Unzip "dqscript.zip" file and extract it locally.
+*) Open Filezilla and set transfer mode to "Binary".
+*) Connect to your server and upload all the files to "public_html" folder.
+
+/// Using "Cpanel" to upload
+*) Login to your cpanel. Go to "File Manager" > "public_html" folder. Upload the dqscript.zip and extract.
+
+*) Go to http://[domain.com]/install. Replace [domain.com] with your domain. E.g if your domain is abc.com, go to http://abc.com/install
+*) Follow the instructions.
+*) After installation, delete the install folder.
+
+
+Note: Feel free to contact us if there is any problem 
+
+Good luck with your project!
